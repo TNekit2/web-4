@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1, h3 {
+    color: #333;
+}
+
+label {
+    font-size: 18px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#totalPrice {
+    font-weight: bold;
+    color: green;
+}
